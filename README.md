@@ -4,7 +4,7 @@
 <img src="path_circular.png" alt="drawing" style="width:60%"/>
 
 ## Summary
-This project explores the motion of a tetherless ferromagnetic sphere along 2D vascular paths. We aim to enhance trajectory tracking accuracy by incorporating optimal control forces into the PID mechanism, refining the balance between propulsion and correctional forces. Additionally, we simulate the sphere's motion along predefined vascular paths, such as circular and custom trajectories, while adhering to safety constraints within the guidance corridor. By focusing on these enhancements, our work provides a foundation for future research into extending these methods to more complex 3D environments and real-world clinical applications. 
+This project explores the motion of a tetherless ferromagnetic sphere along 2D vascular paths. We aim to enhance trajectory tracking accuracy by incorporating optimal control forces into a PID controller and Kalman Filter, refining the balance between propulsion and correctional forces. Additionally, we simulate the sphere's motion along predefined vascular paths, such as circular and custom trajectories, while adhering to safety constraints within the guidance corridor. By focusing on these enhancements, our work provides a foundation for future research into extending these methods to more complex 3D environments and real-world clinical applications. 
 
 ## Run Simulation
 To run our MATLAB script, open `main.m` and press `Run` and you will be prompted the following:
