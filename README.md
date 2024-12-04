@@ -1,5 +1,5 @@
 # MRI-Guided Robotic Navigation: Simulation of Tetherless Milli-Robots in Vascular Pathways
-**Carter Ung and Rahma Aloui**
+**Carter Ung**
 
 <img src="path_circular.png" alt="drawing" style="width:60%"/>
 
